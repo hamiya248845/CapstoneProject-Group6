@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParcelBookingNew", "ParcelBookingNew\ParcelBookingNew.csproj", "{FAB48643-E619-4E7E-B067-4DF0E9D0B17B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAB48643-E619-4E7E-B067-4DF0E9D0B17B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB48643-E619-4E7E-B067-4DF0E9D0B17B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB48643-E619-4E7E-B067-4DF0E9D0B17B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB48643-E619-4E7E-B067-4DF0E9D0B17B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D969AAB-0364-41C7-A21E-7621316EC6A1}
+	EndGlobalSection
+EndGlobal
