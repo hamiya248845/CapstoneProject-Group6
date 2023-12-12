@@ -53,7 +53,7 @@ body {
    /* Register Page Styles */
   
    .register-container {
-  
+  padding-top: 40px;
     display: flex;
   
     flex-direction: column;

@@ -12,6 +12,15 @@ import Login from './components/Login.js';
 import './components/Homepage.css';
 import Homepage from './components/HomePage.js';
 import UserRegister from './components/UserRegister.js';
+import AddParcel from './components/AddParcel.js';
+import ViewParcel from './components/ViewParcel.js';
+import TrackParcel from './components/TrackParcel.js';
+import AboutUs from './components/About Us.js';
+import Afterlogin from './components/Afterlogin';
+
+import AfterLoginUser from './components/AfterLoginUser.js'
+
+
 
 function App() {
 
@@ -25,7 +34,12 @@ function App() {
 
     <Route path="/login" element={<Login />} />
     <Route path="/register" element={<UserRegister />} />
-    
+    <Route path="/addParcel" element={<AddParcel />} />
+    <Route path="/viewParcel" element={<ViewParcel />} />
+    <Route path="/trackParcel" element={<TrackParcel />} />
+    <Route path="/aboutUs" element={<AboutUs />} />
+    <Route path="/afterlogin" element={<Afterlogin />} />
+    <Route path="/afterloginuser" element={<AfterLoginUser />} />
 
    </Routes>
    
